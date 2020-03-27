@@ -1,0 +1,4 @@
+{0:{(0,0,0):room("You’re on a chunk of sand, surrounded by water.\nThere is a small dark house to the **north**.",{1}),
+    (0,1,0):room("You’re in a small dark house,\nthere is a TV set in a corner and a stairs leading **up**.\nTo the **south** there’s a small door leading to the outside.",{5,3}),
+    (0,1,1):room("You’re in an attic with stuff hidden behind large white cloths.\nAn opening on the floor shows a staircase leading **down**.",{6})}
+}
